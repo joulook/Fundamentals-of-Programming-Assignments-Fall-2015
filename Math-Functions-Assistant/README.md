@@ -23,3 +23,10 @@ In this section you can calculates x^y by inserting x and y as inputes.
 | <img src="03.png" alt="Power function" width="400"/> | 
 |:--:| 
 | *Power function* |
+
+## 3. Factorial function
+In this section you can calculates x! by inserting x as an inpute.
+
+| <img src="04.png" alt="Factorial function" width="400"/> | 
+|:--:| 
+| *Factorial function* |
