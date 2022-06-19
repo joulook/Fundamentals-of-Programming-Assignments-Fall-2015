@@ -8,3 +8,11 @@ My Second project in "Fundamentals of Programming" coures when I was in 1st seme
 | <img src="01.png" alt="Main Menu" width="400"/> | 
 |:--:| 
 | *Main Menu* |
+
+## 1. Finding a number is prime or not
+
+In this section you can insert a natural number and find that is prime or not
+
+| <img src="02.png" alt="Finding a number is prime or not" width="400"/> | 
+|:--:| 
+| *Finding a number is prime or not* |
