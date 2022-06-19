@@ -4,3 +4,7 @@ My Second project in "Fundamentals of Programming" coures when I was in 1st seme
 1. Finding a number is prime or not
 2. Power function
 3. Factorial function
+
+| <img src="01.png" alt="Main Menu" width="400"/> | 
+|:--:| 
+| *Main Menu* |
