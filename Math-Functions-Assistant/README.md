@@ -16,3 +16,10 @@ In this section you can insert a natural number and find that is prime or not
 | <img src="02.png" alt="Finding a number is prime or not" width="400"/> | 
 |:--:| 
 | *Finding a number is prime or not* |
+
+## 2. Power function
+In this section you can calculates x^y by inserting x and y as inputes.
+
+| <img src="03.png" alt="Power function" width="400"/> | 
+|:--:| 
+| *Power function* |
