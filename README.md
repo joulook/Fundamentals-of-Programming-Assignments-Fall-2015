@@ -11,3 +11,4 @@ My projects list for this course:
 | Pascal's-Triangle | Java |
 | Trigonometry Functions Calculations with Maclaurin Series | c++ |
 | System of 2 Linear Equations in 2 Variables Calculator | Java |
+| Binary Calculation | Java |
