@@ -10,3 +10,4 @@ My projects list for this course:
 | Math Functions Assistant  | c++  |
 | Pascal's-Triangle | Java |
 | Trigonometry Functions Calculations with Maclaurin Series | c++ |
+| System of 2 Linear Equations in 2 Variables Calculator | Java |
