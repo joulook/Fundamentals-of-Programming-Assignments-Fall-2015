@@ -12,3 +12,4 @@ My projects list for this course:
 | Trigonometry Functions Calculations with Maclaurin Series | c++ |
 | System of 2 Linear Equations in 2 Variables Calculator | Java |
 | Binary Calculation | Java |
+| Square in Diamond | Java |
