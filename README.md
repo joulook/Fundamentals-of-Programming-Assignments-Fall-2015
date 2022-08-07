@@ -14,3 +14,4 @@ My projects list for this course:
 | Binary Calculation | Java |
 | Square in Diamond | Java |
 | Sierpinski Triangle | c++ |
+| Approximation of Pi with Monte-Carlo Method | Java |
