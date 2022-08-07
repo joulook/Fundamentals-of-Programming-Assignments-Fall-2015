@@ -13,3 +13,4 @@ My projects list for this course:
 | System of 2 Linear Equations in 2 Variables Calculator | Java |
 | Binary Calculation | Java |
 | Square in Diamond | Java |
+| Sierpinski Triangle | c++ |
