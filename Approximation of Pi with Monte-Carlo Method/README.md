@@ -6,10 +6,10 @@ My 9th project was in the "Fundamentals of Programming" course when I was in the
 ## Monte Carlo Method
 | <img src="01.jpg" alt="Pascal Triangle" width="500"/> | 
 |:--:| 
-| *mone carlo*
+| *monte carlo*
 
 ## output
-| <img src="out.png" alt="Pascal Triangle" width="700"/> | 
+| <img src="out.jpg" alt="Pascal Triangle" width="700"/> | 
 |:--:| 
 | *Output Sample*
 
